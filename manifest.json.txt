@@ -1,0 +1,10 @@
+{
+  "name": "Abyy Core",
+  "short_name": "Abyy",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "pt-BR",
+  "description": "Assistente pessoal do Abyy"
+}
